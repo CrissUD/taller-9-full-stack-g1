@@ -11,6 +11,7 @@
 <a href="https://www.figma.com/file/sKguK1Awv4hmdZ7sHUGS0x/Example-WireFrame-%2F-Mockup-%2F-Design?type=design&node-id=0%3A1&mode=design&t=FrRTuOqXwkLPMUi4-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
+<img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2>Punto 3: Diseño con CSS</h2>
 
